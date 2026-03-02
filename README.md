@@ -297,3 +297,7 @@ task-14/
 docker compose down            # Stop containers, preserve volumes
 docker compose down -v         # Stop containers AND wipe all data volumes
 ```
+
+## 🎥 Demo Video
+
+https://drive.google.com/file/d/12Q9Sl8wbyeRYUKv38V-IdeSOEOF6hNgw/view?usp=sharing
