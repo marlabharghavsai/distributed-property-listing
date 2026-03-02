@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+*.egg-info/
+.venv/
+venv/
+
+# Docker artifacts
+*.log
+*_log.txt
+diag*.txt
+*_test*.txt
+*_output*.txt
+inspect_*.txt
+rebuild.txt
+nginx_reload.txt
+docker_build.log
+backend_*.txt
+health_test.txt
+pytest_out.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+
+# Test artifacts
+test_run_output.txt
+final_test_results.json
+tests/run_in_container.py
+tests/run_tests.py
